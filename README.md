@@ -13,9 +13,11 @@ Voici le composant utiliser :
 
 Donc ce composant est le composant utiliser dans le projet pour modifier le style de la page html.
 
-Le code du composant ce trouve 
+Le code du composant ce trouve :  /src/components/switchComponent.vue
 
+Dans le fichier App.vue l'on vient mettre le composant switchComponent et grâce à une propriété darkMode qui est un bouléen qui change lors de l'appui graçe à un event on passe d'une div à une autre et chaque div est associé à une classe css qui correspond à un style.
 
+Le code de App.vue : ./App.vue
 
 ## Demonstration du projet
 
