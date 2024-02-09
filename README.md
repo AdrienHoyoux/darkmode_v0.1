@@ -1,5 +1,11 @@
 # darkmode
 
+
+## Demonstration du projet
+
+![projet_darkMode](./projet.gif)
+
+
 ## Project setup
 ```
 npm install
